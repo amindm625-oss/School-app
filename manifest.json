@@ -1,21 +1,21 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "School app",
-  "orientation": "any",
-  "scope": "/School-app/",
-  "short_name": "Schoolapp",
-  "start_url": "/School-app/",
-  "theme_color": "#ffffff",
-  "description": "Management system",
-  "id": "com.School.app",
-  "icons": [
-    {
-      "src": "icon.jpg",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
+    "background_color": "#ffffff",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "School app",
+    "orientation": "any",
+    "scope": "/School-app/",
+    "short_name": "Schoolapp",
+    "start_url": "/School-app/",
+    "theme_color": "#ffffff",
+    "description": "Management system",
+    "id": "com.School.app",
+    "icons": [
+      {
+        "src": "icon.jpg",
+        "sizes": "512x512",
+        "type": "image/jpeg",
+        "purpose": "any maskable"
+      }
+    ]
 }
